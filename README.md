@@ -5,3 +5,4 @@ This program contains the following features:
 3-zooming in and out 
 4-Starting and stoping the display
 5-Printing the snapshots and its calculated data
+6-Linking the displayed signals in the two graphs 
