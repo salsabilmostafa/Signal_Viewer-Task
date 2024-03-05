@@ -38,8 +38,7 @@ This project is a real-time signal viewer that provides a user-friendly interfac
 ## Usage
 1. Clone the repository.
     ```bash
-    git clone https://github.com/your-username/signal-viewer.git
-    cd signal-viewer
+    git clone https://github.com/salsabilmostafa/Signal_Viewer-Task.git
     ```
 2. Run the application.
     ```bash
