@@ -42,7 +42,7 @@ This project is a real-time signal viewer that provides a user-friendly interfac
     ```
 2. Run the application.
     ```bash
-    python signal_viewer.py
+    python Signal_Viewer.py
     ```
 3. Explore the features and functionalities provided by the real-time signal viewer.
 
